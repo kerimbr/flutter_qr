@@ -1,6 +1,7 @@
-# flutterQR
+# FlutterQR
 
-FlutterQR QR Code Scanner
+FlutterQR QR Code Scanner Application
+![](https://i.imgur.com/O2kZSPM.png)
 
 
 ![](https://miro.medium.com/max/875/1*L-wk88fz_Km3nddOOJapAQ.gif)
