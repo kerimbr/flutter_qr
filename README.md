@@ -1,7 +1,6 @@
 # flutterQR
 
 FlutterQR QR Code Scanner
-
 ![](https://miro.medium.com/max/875/1*L-wk88fz_Km3nddOOJapAQ.gif)
 
 
