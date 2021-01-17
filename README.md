@@ -4,7 +4,7 @@ FlutterQR QR Code Scanner Application
 
 <img src="https://i.imgur.com/O2kZSPM.png" width="128"/>
 
-<img src="https://miro.medium.com/max/875/1*L-wk88fz_Km3nddOOJapAQ.gif" width="128"/>
+<img src="https://thumbs.gfycat.com/VastPastLamprey-mobile.mp4"/>
 
 
 
