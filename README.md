@@ -4,7 +4,7 @@ FlutterQR QR Code Scanner Application
 
 <img src="https://i.imgur.com/O2kZSPM.png" width="128"/>
 
-<img src="http://download.kerimbr.com/flutterqr.gif"/>
+<img src="http://download.kerimbr.com/flutterqr.gif" width="128"/>
 
 
 
